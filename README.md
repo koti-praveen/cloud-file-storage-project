@@ -9,7 +9,7 @@ The system is designed to ensure data security, versioning, and fine-grained per
 ---
 🚀 Features
 
-User Authentication – AWS Cognito handles sign-up, sign-in, and session management.
+User Authentication – AWS Cognito handles sign-up, sign-in, and session management
 
 Role-Based Access Control – Permissions vary by role (Admin, Editor, Viewer, etc.).
 
